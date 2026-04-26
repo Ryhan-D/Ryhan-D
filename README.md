@@ -7,7 +7,7 @@ Me encanta solucionar problemas y crear aplicaciónes de todo tipo, de la manera
 
 Soy muy resilente y cuando se me presenta un reto delante me motivo para superarlo.
 
-No voy a mentir, soy java lover, pero me gusta PHP
+Soy java lover, pero me gusta PHP
 
 ---
 
