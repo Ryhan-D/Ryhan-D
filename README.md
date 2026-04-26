@@ -11,7 +11,7 @@ Soy java lover, pero me gusta PHP
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -41,7 +41,7 @@ Soy java lover, pero me gusta PHP
 
 ---
 
-### 📊 Stats
+### Stats
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryhan-D&hide_border=true&theme=tokyonight" height="165" />
@@ -49,7 +49,7 @@ Soy java lover, pero me gusta PHP
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 -  [aaronduque.es](https://aaronduque.es)
 -  [LinkedIn](https://linkedin.com/in/aaron-duque-angulo/)
