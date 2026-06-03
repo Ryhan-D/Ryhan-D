@@ -3,7 +3,7 @@
 
 Desarrollador full-stack desde Bilbao. Trabajo principalmente con **Next.js**, **TypeScript**, **PHP/Symfony** y **Java**, y últimamente bastante con el ecosistema **Microsoft 365 / Power Platform**.
 
-Me encanta solucionar problemas y crear aplicaciónes de todo tipo, de la manera mas eficiente, desde paginas web hasta apis o manejo de ficheros, automatizaciones...
+Me encanta solucionar problemas y crear aplicaciónes de todo tipo, de la manera mas eficiente, desde paginas web hasta API REST o SOAP, manejo de ficheros, automatizaciones...
 
 Soy muy resilente y cuando se me presenta un reto delante me motivo para superarlo.
 
